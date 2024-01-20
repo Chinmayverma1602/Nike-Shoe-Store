@@ -1,6 +1,6 @@
-# flutter_application_2
+# Shoe Project 
 
-A new Flutter project.
+Welcome to the Nike App, your destination for summer style and performance. 
 
 ## Getting Started
 
